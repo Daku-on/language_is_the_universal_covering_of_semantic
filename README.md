@@ -1,0 +1,2 @@
+# language_is_the_universal_covering_of_semantic
+言語は意味のuniversal coveringだよって話
